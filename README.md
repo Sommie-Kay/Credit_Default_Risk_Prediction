@@ -23,7 +23,7 @@ Executing the `engine.py` script triggers the entire pipeline, resulting in the 
 LightGBM is a gradient boosting framework that is renowned for its speed, efficiency, and accuracy. It is particularly well-suited for large datasets and has been widely adopted in various machine learning applications, including credit risk prediction.
 
 ### Data
-The project includes a separate folder for the dataset used for training and evaluation. The dataset contains relevant features such as demographic information, financial history, and credit risk indicators.
+The project Dataset was uploaded along side all other files. The dataset contains relevant features such as demographic information, financial history, and credit risk indicators.
 
 ## Conclusion
 By leveraging machine learning techniques, particularly LightGBM, this project aims to provide financial institutions with a reliable tool for assessing credit risk. The trained model can assist in automating loan approval processes, improving efficiency, and mitigating the risk of default.
